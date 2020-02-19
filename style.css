@@ -1,5 +1,5 @@
 body {
-    padding-top: 10px;
+    padding-top: 30px;
     /* background-image: url(image.jpg); */
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,3 +16,11 @@ body {
     margin-left:0;
     padding-left:0;
     }
+.logo{
+    width: 120px;
+    height: 50px;
+    border: 2px solid #000;
+    -webkit-border-radius: 12px / 24px;
+    -moz-border-radius:    12px / 24px; 
+    border-radius:         12px / 24px; 
+}
